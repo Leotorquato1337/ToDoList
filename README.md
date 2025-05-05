@@ -1,2 +1,2 @@
 # ToDoList
-ToDoList desenvolvida com HTML, CSS e JS
+ToDoList desenvolvido com HTML, CSS e JS
